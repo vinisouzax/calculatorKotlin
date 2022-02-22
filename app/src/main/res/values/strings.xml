@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="first_value">First Value</string>
+    <string name="second_value">Second Value</string>
+    <string name="operator">Operator</string>
+    <string name="sum">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">*</string>
+    <string name="division">/</string>
+    <string name="bt_calculate">Calculate</string>
+    <string name="calculation">Calculation</string>
+    <string name="empty_value_error">Empty Value</string>
+</resources>
